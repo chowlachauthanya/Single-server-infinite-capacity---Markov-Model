@@ -29,9 +29,10 @@ Register number : 23000501
 
 ![image](https://github.com/chowlachauthanya/Single-server-infinite-capacity---Markov-Model/assets/155505742/55ee5f0d-9d69-4577-aee1-754ba95024f3)
 
-## Output : The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
-
-## Result :
+## output :
 ![image](https://github.com/chowlachauthanya/Single-server-infinite-capacity---Markov-Model/assets/155505742/d4a547e5-e43d-4407-850a-65cbaa0e1d46)
+## result :
+The average number of material in the system and in the conveyor ans waiting time are successfully found.
+
 
 
